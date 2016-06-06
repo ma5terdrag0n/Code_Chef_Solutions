@@ -1,7 +1,7 @@
 /*
 *
 * Solution By : Pritish Thakkar
-* Reference : https://gocodergo.wordpress.com/category/hackerrank-solutions/
+* Reference : https://gocodergo.wordpress.com/
 *
 */
 #include<iostream>
