@@ -1,3 +1,9 @@
+/*
+*
+* Solution By : Pritish Thakkar
+* Reference : https://gocodergo.wordpress.com
+*
+*/
 #include<cstdio>
 #include<iostream>
 #include<vector>
