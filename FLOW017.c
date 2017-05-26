@@ -1,7 +1,6 @@
 /*
 *
 * Solution By : Pritish Thakkar
-* Reference : https://gocodergo.wordpress.com
 *
 */
 #include<stdio.h>
